@@ -1,0 +1,25 @@
+body{
+    background-image: url(../img/wall.jpg);
+}
+.contenido{
+    margin: 0 auto;
+    max-width: 1000px;
+    background-color: rgb(252, 208, 253);
+}
+h2{
+    background-color: rgb(207, 84, 176);
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.main{
+    margin-left: 30px;
+}
+
+
+
+
+
+
+
+

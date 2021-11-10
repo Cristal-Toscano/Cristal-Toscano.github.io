@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../img/fondo.jpg);
+    background-size: contain;
+}
+.main{
+    width: 1000px;
+    height: 500px;
+    margin: 20px auto;
+    overflow: hidden;
+    position: relative;
+}
+.banner{
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+}
+
+.banner-slide{
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    background-repeat: no-repeat;
+    display: none;
+}
+.slide1{
+    background: url("../img/1.jpg");
+}
+.slide2{
+    background: url("../img/2.jpg");
+}
+.slide3{
+    background: url("../img/3.jpg");
+}
+.slide4{
+    background: url("../img/4.jpg");
+}
+.slide5{
+    background: url("../img/5.jpg");
+}
+.slide6{
+    background: url("../img/6.jpg");
+}
+
+.slide-active{
+    display: block;
+}
+
+.button{
+    position: absolute;
+    width: 40px;
+    height: 100px;
+    left: 0;
+    top: 50%;
+    margin-top: -40px;
+}
+
+.button:hover{
+    background: rgb(226, 122, 218); 
+    background-color: rgb(226, 122, 218);
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+}
+.prev{
+    transform: rotate(180deg)
+}
+.next{
+    right:0;
+    left: auto;
+}
+.dots{
+    position: absolute;
+    right: 10px;
+    bottom: 24px;
+    text-align: right;
+}
+.dots span{
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    border-radius: 50px;
+    background-color: rgba(7,17,27,0.4);
+    margin-right: 8px;
+    line-height: 12px;
+    box-shadow: 0 0 0 2px rgb(255, 230, 1) inset;
+    cursor: pointer;
+}
+
+.dots span.active{
+    box-shadow: 0 0 0 2px rgba(7,17,27,0.4) inset;
+    background: rgb(255, 136, 0);
+}
+
+

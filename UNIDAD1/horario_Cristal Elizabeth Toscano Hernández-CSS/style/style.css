@@ -1,0 +1,71 @@
+body{
+    background-image: url("../img/ACUARELAS.jpg") ;  
+}
+
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    background: none;
+    margin-left: 600px;
+}
+.PW{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(253, 136, 228);
+}
+.INFO{
+    font-family:monospace;
+    font-size: 16px;
+    font-weight: 700;
+}
+.INGLES{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(228, 132, 252);
+}
+.EOYE{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(129, 188, 255);
+}
+.SE{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(145, 253, 253);
+}
+
+.IN{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(145, 253, 168);
+}
+.POO{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(255, 243, 131);
+}
+th{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: pink;   
+}
+
+.RECESO{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: #fcb35f;   
+}
+.IMAGEN2{
+    margin-left: 950px;
+
+}
+.TOTAL{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: #f89082;   
+}
+#HORARIO{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(255, 128, 176); 
+}

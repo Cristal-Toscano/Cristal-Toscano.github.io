@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:rgb(252, 232, 208);
+}
+.contenido{
+    margin: 0 auto;
+    max-width: 600px;
+}
+fieldset{
+    border-radius: 5px;
+    border-width: 1px;
+    background-color: #FFFF;
+    margin: 10px;
+    padding: 20px;
+    max-width: 600px;
+    border-color: rgb(214, 214, 214)
+}
+label{
+    font-family:initial;
+    font-size: 14px;
+}
+h1{
+    font-family:inherit;
+    font-size: 25px;
+    font-weight:500;
+}
+img{
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border-style:outset;
+}
+div .opciones{
+    display: flex;
+    max-width: 550px;
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+    padding: 7px;
+    background-color: #FFFF;
+    border-radius: 4px;
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+input[type='checkbox']{
+    margin-top: 8px;
+    padding: 12px;
+}
+input[type='submit']{
+    margin: 10px;
+    padding: 7px;
+    background-color: #FFFF;
+    border-radius: 4px;
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    border-style: none;
+}
+table {
+    width: 500px;
+    text-align: center;
+
+}
+.tipo{
+    text-align: left;
+}
+td{
+    margin: 10px;
+    font-size: 14px;
+    padding: 5px;
+}
