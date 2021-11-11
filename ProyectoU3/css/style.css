@@ -1,6 +1,6 @@
 .login {
-    margin: 20px auto;
-    width: 300px;
+    margin: 0px auto;
+    width: 1000px;
     }
 
 .login-form {
@@ -9,14 +9,15 @@
 
  .login-screen {
         background-color: #FFF;
-        padding: 20px;
-        max-width: 300px;
-        border-radius: 5px
+        padding: 10px;
+        width: 980px;
+        margin: 0 auto;
+        position: block;
        }
 
        .register{
-        margin: 20px auto;
-        width: 300px;
+         margin: 0px auto;
+    	 width: 1000px;
         }
     
     .register-form {
@@ -24,9 +25,11 @@
         }
     
      .register-screen {
-            background-color: #FFF;
-            padding: 20px;
-            border-radius: 5px
+        background-color: #FFF;
+        padding: 10px;
+        width: 980px;
+        margin: 0 auto;
+        position: block;
            }
 
 body{
