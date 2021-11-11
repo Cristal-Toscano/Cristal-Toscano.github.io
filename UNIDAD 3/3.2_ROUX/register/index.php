@@ -1,6 +1,6 @@
 
 <?php
-require('/UNIDAD 3/3.2_ROUX/externosEncaPie/encabezado.php');
+require('externosEncaPie/encabezado.php');
 ?>
   <!-- Rotator -->
   <section id="main">
@@ -88,7 +88,7 @@ require('/UNIDAD 3/3.2_ROUX/externosEncaPie/encabezado.php');
   </aside>
   <!-- Sidebar -->
   <?php
-include('/UNIDAD 3/3.2_ROUX/externosEncaPie/piePagina.php');
+include('externosEncaPie/piePagina.php');
 ?>
 </div>
 </body>
