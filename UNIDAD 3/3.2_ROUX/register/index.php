@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Roux Conference: Artists</title>
+<link rel="stylesheet" href="../3.2_ROUX/css/style.css">
+
 <?php
 require('../3.2_ROUX/externosEncaPie/encabezado.php');
 ?>
