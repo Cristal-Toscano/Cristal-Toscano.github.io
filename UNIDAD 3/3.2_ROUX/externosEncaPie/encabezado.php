@@ -19,11 +19,11 @@
     </div>
     <nav>
       <ol>
-        <li><a href="../3.2_ROUX/index.php">HOME</a></li>
-        <li><a href="../3.2_ROUX/artists.php">ARTISTS</a></li>
-        <li><a href="../3.2_ROUX/schedule/index.php">SCHEDULE</a></li>
-        <li><a href="../3.2_ROUX/venue.php">VENUE/TRAVEL</a></li>
-        <li><a href="../3.2_ROUX/register/index.php">REGISTER</a></li>
+        <li><a href="../3.2_ROUX/index.php" target="_blank">HOME</a></li>
+        <li><a href="../3.2_ROUX/artists.php" target="_blank">ARTISTS</a></li>
+        <li><a href="../3.2_ROUX/schedule/index.php" target="_blank">SCHEDULE</a></li>
+        <li><a href="../3.2_ROUX/venue.php" target="_blank">VENUE/TRAVEL</a></li>
+        <li><a href="../3.2_ROUX/register/index.php" target="_blank">REGISTER</a></li>
       </ol>
     </nav>
   </header>
