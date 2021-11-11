@@ -3,13 +3,13 @@
 <head>
 <meta charset="utf-8">
 <title>Roux Conference: Artists</title>
-<link rel="stylesheet" href="/3.2_ROUX/css/style.css">
+<link rel="stylesheet" href="/UNIDAD 3/3.2_ROUX/css/style.css">
 
 </head>
 <body id="page_artists">
 <div class="wrapper">
   <header>
-    <div class="branding"> <img src="/3.2_ROUX/images/ralogo_monogram.png" alt="Logo">
+    <div class="branding"> <img src="/UNIDAD 3/3.2_ROUX/images/ralogo_monogram.png" alt="Logo">
       <p>Roux Academy<br>
         Art • Media • Design</p>
     </div>
