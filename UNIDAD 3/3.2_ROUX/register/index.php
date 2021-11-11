@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Roux Conference: Artists</title>
-<link rel="stylesheet" href="../3.2_ROUX/css/style.css">
 
 <?php
-require('../3.2_ROUX/externosEncaPie/encabezado.php');
+require('/3.2_ROUX/externosEncaPie/encabezado.php');
 ?>
   <!-- Rotator -->
   <section id="main">
@@ -94,7 +88,7 @@ require('../3.2_ROUX/externosEncaPie/encabezado.php');
   </aside>
   <!-- Sidebar -->
   <?php
-include('../3.2_ROUX/externosEncaPie/piePagina.php');
+include('/3.2_ROUX/externosEncaPie/piePagina.php');
 ?>
 </div>
 </body>
