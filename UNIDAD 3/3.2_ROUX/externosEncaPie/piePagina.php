@@ -1,6 +1,6 @@
 
   <footer>
-    <div class="branding"> <img src="/3.2_ROUX/images/ralogo_monogram.png" alt="Logo"> </div>
+    <div class="branding"> <img src="/UNIDAD 3/3.2_ROUX/images/ralogo_monogram.png" alt="Logo"> </div>
     <div class="description">Join over 500 hundred of the most creative and brilliant minds of art colleges all around the world for three days of lectures by world-renowned art scholars and artists.</div>
     <nav>
       <ol>
