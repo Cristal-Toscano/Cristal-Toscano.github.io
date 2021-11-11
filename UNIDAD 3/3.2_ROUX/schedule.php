@@ -15,14 +15,14 @@ require('externosEncaPie/piePagina.php');
         <p>The first day of CAC events and exhibits is kicked off under the theme of Art in Full Color From a demonstration in graffiti art on a wall of the  Rousseau Room, to the exhibit of colorful glazed modern glassware in the Dover Hall, Art in Full Color will get CAC started in full swing!</p>
         <div class="events">
           <ul>
-            <li> <img src="../images/artists/LaVonne_LaRue_tn.jpg" alt="Art in Unexpected Places">
+            <li> <img src="images/artists/LaVonne_LaRue_tn.jpg" alt="Art in Unexpected Places">
               <div class="textinfo">
                 <h5>Art in Unexpected Places</h5>
                 <h6>09:30-10:30am: Elizabeth Hall </h6>
                 <p>Watch LaVonne L. LaRue, a Chicago graffiti artist share her love and skill of mural art on Monday’s schedule, as she starts the painting of a 20-foot high wall in the Rousseau Room of Hotel Contempo, which will be finished at the end of the conference. Make sure to show up a bit early, as this session will be standing-room only.</p>
               </div>
             </li>
-            <li> <img src="../images/artists/Constance_Smith_tn.jpg" alt="Art in Unexpected Places">
+            <li> <img src="images/artists/Constance_Smith_tn.jpg" alt="Art in Unexpected Places">
               <div class="textinfo">
                 <h5>Art in Full Bloom</h5>
                 <h6>11:00am-1pm: Victoria Hall</h6>
@@ -30,7 +30,7 @@ require('externosEncaPie/piePagina.php');
               </div>
               <!-- textinfo --> 
             </li>
-            <li> <img src="../images/artists/Riley_Rewington_tn.jpg" alt="Art in Unexpected Places">
+            <li> <img src="images/artists/Riley_Rewington_tn.jpg" alt="Art in Unexpected Places">
               <div class="textinfo">
                 <h5>Still Life</h5>
                 <h6>2:30-4:00pm: Dennison Hall</h6>
@@ -52,7 +52,7 @@ require('externosEncaPie/piePagina.php');
         <p>Water in Art is the theme for the second day, as art students from around the world gather at the Fountain of Intrigue in the gardens of Hotel Contempo to create ice sculptures, and art lecturers discuss the use of water as an art material, and water as an art subject.</p>
         <div class="events">
           <ul>
-            <li> <img src="../images/artists/Jennifer_Jerome_tn.jpg" alt="Art in Unexpected Places">
+            <li> <img src="images/artists/Jennifer_Jerome_tn.jpg" alt="Art in Unexpected Places">
               <div class="textinfo">
                 <h5>Water in Art Kickoff Session</h5>
                 <h6>09:30-10:30am: Elizabeth Hall</h6>
@@ -60,7 +60,7 @@ require('externosEncaPie/piePagina.php');
               </div>
               <!-- textinfo --> 
             </li>
-            <li> <img src="../images/artists/Jonathan_Ferrar_tn.jpg" alt="Art in Unexpected Places">
+            <li> <img src="images/artists/Jonathan_Ferrar_tn.jpg" alt="Art in Unexpected Places">
               <div class="textinfo">
                 <h5>Ice Sculptures</h5>
                 <h6>10:30am-1pm: Fountain of Intrigue</h6>
@@ -68,7 +68,7 @@ require('externosEncaPie/piePagina.php');
               </div>
               <!-- textinfo --> 
             </li>
-            <li> <img src="../images/artists/Hillary_Goldwynn_tn.jpg" alt="Art in Unexpected Places">
+            <li> <img src="images/artists/Hillary_Goldwynn_tn.jpg" alt="Art in Unexpected Places">
               <div class="textinfo">
                 <h5>Deep Sea Wonders</h5>
                 <h6>2:30-4:00pm: Dennison Hall</h6>
@@ -92,17 +92,17 @@ require('externosEncaPie/piePagina.php');
       <p>Each year, nine individuals are honored as Featured Artists - each being granted his or her own exhibit hall to display entire collections or themed pieces. Each Featured Artist has an opportunity to speak at the conference to share his or her vision, perspective, and techniques with conference attendees.</p>
       <div class="pixgrid">
         <ul>
-          <li><img src="../images/artists/Barot_Bellingham_tn.jpg" alt="Barot Bellingham"></li>
-          <li><img src="../images/artists/Constance_Smith_tn.jpg" alt="Constance Smith"></li>
-          <li><img src="../images/artists/Hassum_Harrod_tn.jpg" alt="Hassum Harrod"></li>
-          <li><img src="../images/artists/Hillary_Goldwynn_tn.jpg" alt="Hillary Goldwynn"></li>
-          <li><img src="../images/artists/Jennifer_Jerome_tn.jpg" alt="Jennifer Jerome"></li>
-          <li><img src="../images/artists/Jonathan_Ferrar_tn.jpg" alt="Jonathan Ferrar"></li>
-          <li><img src="../images/artists/LaVonne_LaRue_tn.jpg" alt="LaVonne LaRue"></li>
-          <li><img src="../images/artists/Riley_Rewington_tn.jpg" alt="Riley Rewington"></li>
-          <li><img src="../images/artists/Xhou_Ta_tn.jpg" alt="Xhou Ta"></li>
+          <li><img src="images/artists/Barot_Bellingham_tn.jpg" alt="Barot Bellingham"></li>
+          <li><img src="images/artists/Constance_Smith_tn.jpg" alt="Constance Smith"></li>
+          <li><img src="images/artists/Hassum_Harrod_tn.jpg" alt="Hassum Harrod"></li>
+          <li><img src="images/artists/Hillary_Goldwynn_tn.jpg" alt="Hillary Goldwynn"></li>
+          <li><img src="images/artists/Jennifer_Jerome_tn.jpg" alt="Jennifer Jerome"></li>
+          <li><img src="images/artists/Jonathan_Ferrar_tn.jpg" alt="Jonathan Ferrar"></li>
+          <li><img src="images/artists/LaVonne_LaRue_tn.jpg" alt="LaVonne LaRue"></li>
+          <li><img src="images/artists/Riley_Rewington_tn.jpg" alt="Riley Rewington"></li>
+          <li><img src="images/artists/Xhou_Ta_tn.jpg" alt="Xhou Ta"></li>
         </ul>
-        <p><a class="link" href="../artists.php">View Artist Info</a></p>
+        <p><a class="link" href="artists.php">View Artist Info</a></p>
       </div>
     </article>
     <!-- Featured Artists -->
@@ -110,7 +110,7 @@ require('externosEncaPie/piePagina.php');
       <h2 class="highlight">Coming to the event?</h2>
       <h3>Check out our mobile site</h3>
       <p>Our mobile site contains schedules, and exhibit/ artist details, accessible simply by scanning QR codes located all around the venue exhibit halls.</p>
-      <p><img src="../images/iphone.png" alt="Mobile phone"></p>
+      <p><img src="images/iphone.png" alt="Mobile phone"></p>
       <p><a class="link" href="#">Roux Mobile</a></p>
     </article>
     <!-- Coming to event --> 
