@@ -21,9 +21,9 @@
       <ol>
         <li><a href="../3.2_ROUX/index.php">HOME</a></li>
         <li><a href="../3.2_ROUX/artists.php">ARTISTS</a></li>
-        <li><a href="../3.2_ROUX/schedule/">SCHEDULE</a></li>
+        <li><a href="../3.2_ROUX/schedule.php</a></li>
         <li><a href="../3.2_ROUX/venue.php">VENUE/TRAVEL</a></li>
-        <li><a href="../3.2_ROUX/register/">REGISTER</a></li>
+        <li><a href="../3.2_ROUX/register.php">REGISTER</a></li>
       </ol>
     </nav>
   </header>
