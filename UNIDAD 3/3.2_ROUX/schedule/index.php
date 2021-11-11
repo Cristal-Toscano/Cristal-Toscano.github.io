@@ -1,5 +1,5 @@
 <?php
-require('../3.2_ROUX/externosEncaPie/encabezado.php');
+require('/externosEncaPie/encabezado.php');
 ?>
   <section id="main">
     <article id="schedule">
@@ -117,7 +117,7 @@ require('../3.2_ROUX/externosEncaPie/encabezado.php');
   </aside>
   <!-- Sidebar -->
   <?php
-include('../3.2_ROUX/externosEncaPie/piePagina.php');
+include('/externosEncaPie/piePagina.php');
 ?>
 </div>
 
