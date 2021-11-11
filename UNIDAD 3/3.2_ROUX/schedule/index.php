@@ -1,5 +1,5 @@
 <?php
-require('../3.2_ROUX/externosEncaPie/piePagina.php');
+require('../3.2_ROUX/externosEncaPie/encabezado.php');
 ?>
   <section id="main">
     <article id="schedule">
