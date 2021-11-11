@@ -1,5 +1,5 @@
 <?php
-require('../externosEncaPie/encabezado.php');
+require('externosEncaPie/encabezado.php');
 ?>
   <!-- Rotator -->
   <section id="main">
@@ -87,7 +87,7 @@ require('../externosEncaPie/encabezado.php');
   </aside>
   <!-- Sidebar -->
   <?php
-include('../externosEncaPie/piePagina.php');
+include('externosEncaPie/piePagina.php');
 ?>
 </div>
 </body>
