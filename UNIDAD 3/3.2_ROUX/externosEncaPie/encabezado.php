@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Roux Conference: Artists</title>
-<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/3.2_ROUX/css/style.css">
 
 </head>
 <body id="page_artists">
