@@ -88,7 +88,7 @@ if (isset($_POST['register'])) {
 
             <br><br><br>
 
-            <a href="../Proyecto_final/">Inicie sesión</a>
+            <a href="../ProyectoU3/">Inicie sesión</a>
             </div>
             
     </div>
