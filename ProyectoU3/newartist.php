@@ -5,7 +5,7 @@ if(isset($_POST["registerArtist"])){
     $check = getimagesize($_FILES["imagen"]["tmp_name"]);
     if($check !== false){
         $imagen = $_FILES['imagen']['tmp_name'];
-        $imgContent = addslashes(file_get_contents($imagen))
+        $imgContent = addslashes(file_get_contents($imagen));
         $dbHost     = 'localhost';
         $dbUsername = 'id17917205_root';
         $dbPassword = 'Hol&123456789';
