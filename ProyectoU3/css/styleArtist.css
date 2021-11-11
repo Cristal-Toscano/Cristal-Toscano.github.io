@@ -1,0 +1,115 @@
+root:{
+    --gris: #cdd0cb;
+}
+
+body{
+    width: 1000px;
+    margin: auto;
+    background-image: url(../img/background_buildings.png);
+    background-repeat: repeat-x;
+    background-color: rgb(73, 91, 149);
+}
+
+.gris{
+    color: var(--gris);
+}
+
+.principal{
+	display: flex;
+	background-color: white;
+	padding: 10px 25px;
+	justify-content: space-around;
+}
+
+.principal main{
+    width: 50%;
+}
+
+.principal aside{
+    width: 35%;
+}
+
+.principal section{
+    margin-bottom: 20px ;
+}
+
+.imgArte img{
+    width: 30%;
+    margin: 5px;
+    border-radius: 10%;
+}
+
+.imgArte{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img{
+	float: right;
+    margin-right: 15px;
+}
+
+.img{
+    width: 30%;
+    margin: 5px;
+    border-radius: 10%;
+}
+
+nav ul li{
+    display: inline;
+}
+nav ul li {
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+p{
+    text-align: justify;
+    line-height : 25px;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+footer ul li{
+    list-style: none;
+    display: inline;
+}
+
+footer p{
+    width: 30%;
+}
+
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 10px 40px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header div{
+    width: 50%;
+}
+
+.gris{
+    color: #898b8a;
+}
+
+.rojo{
+    color: #cd0a0a;
+}
+
+.TablaPrincipal
+{
+    width: 150px;
+    margin-left: center;
+    margin-right: center;
+}

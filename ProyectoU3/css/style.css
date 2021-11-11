@@ -1,0 +1,130 @@
+.login {
+    margin: 20px auto;
+    width: 300px;
+    }
+
+.login-form {
+        text-align: center;
+    }
+
+ .login-screen {
+        background-color: #FFF;
+        padding: 20px;
+        border-radius: 5px
+       }
+
+       .register{
+        margin: 20px auto;
+        width: 300px;
+        }
+    
+    .register-form {
+            text-align: center;
+        }
+    
+     .register-screen {
+            background-color: #FFF;
+            padding: 20px;
+            border-radius: 5px
+           }
+
+body{
+    width: 1000px;
+    margin: auto;
+    background-image: url(../img/background_buildings.png);
+    background-repeat: repeat-x;
+    background-color: rgb(73, 91, 149);
+}
+.imagenes img{
+    width: 20%;
+    margin: 10px;
+    border-radius: 10%;
+}
+
+.hotel{
+	float: left;
+    margin-right: 15px;
+}
+
+.imagenes{
+	 display: flex;
+    flex-wrap: wrap;
+}
+
+nav ul li{
+	display: inline;
+}
+nav ul li {
+	text-decoration: none;
+	margin-right: 10px;
+}
+
+aside{
+	width: 30%;
+}
+
+p{
+    text-align: justify;
+    line-height : 25px;
+}
+
+.gris{
+    color: #898b8a;
+}
+
+.rojo{
+    color: #cd0a0a;
+}
+
+.secciones *{
+	padding: 5px;
+}
+
+.head{
+	display: flex;
+}
+
+.principal{
+	display: flex;
+	background-color: white;
+	padding: 10px 25px;
+	justify-content: space-around;
+}
+
+main{
+	width: 70%;
+}
+
+div{
+	display: block;
+}
+
+header{
+	background-color: black;
+    color: white;
+    display: flex;
+    padding: 10px 40px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header div{
+    width: 50%;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+footer ul li{
+    list-style: none;
+    display: inline;
+}
+
+footer p{
+    width: 30%;
+}

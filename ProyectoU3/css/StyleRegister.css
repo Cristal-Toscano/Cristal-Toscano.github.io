@@ -1,0 +1,98 @@
+body{
+    width: 1000px;
+    margin: auto;
+    background-image: url(../img/background_buildings.png);
+    background-repeat: repeat-x;
+    background-color: rgb(73, 91, 149);
+}
+
+nav ul li{
+    display: inline;
+}
+nav ul li {
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+footer ul li{
+    list-style: none;
+    display: inline;
+}
+
+footer p{
+    width: 30%;
+}
+
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 10px 40px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header div{
+    width: 50%;
+}
+
+main{
+    border-radius: 10%;
+}
+
+.principal{
+    background-color: white;
+    display: flex;
+    padding: 10px 25px;
+    justify-content: space-around;
+}
+
+.principal main{
+    width: 50%;
+}
+
+.principal aside{
+    width: 35%;
+}
+
+.artistas{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.artistas img{
+    width: 30%;
+    margin: 5px;
+    border-radius: 10%;
+}
+
+.registro{
+    text-align: justify;
+    padding-top: 18px;
+}
+
+
+label{
+    display: inline-block;
+    text-align: justify-all;
+    width: 80px;
+}
+
+input{
+    padding: 30px;
+    border-radius: 5px;
+   
+}
+
+
+input [type="radio"], input [type="checkbox"]{
+    display: inline-block;
+}
