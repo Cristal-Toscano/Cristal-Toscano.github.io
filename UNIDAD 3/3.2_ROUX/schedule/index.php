@@ -1,5 +1,5 @@
 <?php
-require('/externosEncaPie/encabezado.php');
+require('../externosEncaPie/encabezado.php');
 ?>
   <section id="main">
     <article id="schedule">
@@ -117,7 +117,7 @@ require('/externosEncaPie/encabezado.php');
   </aside>
   <!-- Sidebar -->
   <?php
-include('/externosEncaPie/piePagina.php');
+include('../externosEncaPie/piePagina.php');
 ?>
 </div>
 
