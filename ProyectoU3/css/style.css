@@ -66,12 +66,12 @@
      float: left;
      position:relative;
      text-decoration: none;
-     font-size: 30px;
+     font-size: 10px;
      color: rgb(255, 255, 255);
      font-family:Georgia, 'Times New Roman', Times, serif;
-     margin-left: 20px;
-     padding-left: 60px; 
-     padding-top: 50px;
+     margin-left: 5px;
+     padding-left: 5px; 
+     padding-top: 30px;
  }
  
  .gris{
@@ -166,7 +166,12 @@
      position: relative;
     margin-left: 30px;
  }       
-
+.principalartista{
+    position: relative;
+    color: #FFF;
+    font-size: 12px;
+    margin:100px;
+}
 
 
 
